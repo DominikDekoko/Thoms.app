@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<index>
+	<name>Bellotti_4711</name>
+	<type>model</type>
+	<format>3Ds Max 2020</format>
+	<export>OBJ, MAT</export>
+	<render>Corona (9)</render>
+	<polys>77360</polys>
+	<verts>78796</verts>
+	<matclasses>_CoronaPhysicalMtl,CoronaLegacyMtl</matclasses>
+	<units>Millimeters</units>
+	<dimension>2746.49 x 884.89 x 1979.96</dimension>
+	<modeller>Viktoriya</modeller>
+	<preset>FULL CUSTOM</preset>
+	<site>N/A</site>
+	<custom1>N/A</custom1>
+	<manufacturer>Bellotti</manufacturer>
+	<product_url>N/A</product_url>
+	<unwrap>No</unwrap>
+	<lights>No</lights>
+	<cameras>No</cameras>
+	<rigged>No</rigged>
+	<animated>No</animated>
+	<date>2023.10.7</date>
+	<viruses>N/A</viruses>
+	<preview>Yes</preview>
+	<tags></tags>
+	<packinfo>Packed with Model Packer by https://3dground.net/</packinfo>
+	<packver>1.8.9</packver>
+	<description><![CDATA[]]></description>
+<previews>
+	<preview>Bellotti-4711-2020.png</preview>
+</previews>
+</index>

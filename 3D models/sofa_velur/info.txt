@@ -1,0 +1,11 @@
+Name: sofa_velur
+Version: 2016
+Preview: No
+Units: Millimeters
+Dimension: 2373.67 x 929.32 x 705.42
+Polys: 81 818
+XForm: Yes
+Box Trick: Yes
+Model Parts: 1
+Render: 
+Formats: 3Ds Max 2016, OBJ, FBX
